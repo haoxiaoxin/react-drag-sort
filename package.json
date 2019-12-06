@@ -31,16 +31,16 @@
     "react-dom": "^15.4.2"
   },
   "author": "Andrew J. Monks <a@monks.co>",
-  "homepage": "https://github.com/theuprising/react-sortable#readme",
+  "homepage": "https://github.com/haoxiaoxin/react-sortable#readme",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theuprising/react-sortable.git"
+    "url": "git+https://github.com/haoxiaoxin/react-sortable.git"
   },
   "keywords": [
     "react-component"
   ],
   "bugs": {
-    "url": "https://github.com/theuprising/react-sortable/issues"
+    "url": "https://github.com/haoxiaoxin/react-sortable/issues"
   }
 }
